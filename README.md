@@ -1,7 +1,8 @@
 # Solr-GRAB
-Steal Apache Solr instance Queries with or without a username and password.
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/opensecs/GTP-Smash/blob/master/LICENSE)
 [![version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/opensecs/GTP-Smash)
+
+Steal Apache Solr instance Queries with or without a username and password.
 
 __DISCLAIMER__: This project should be used for authorized testing and educational purposes only.
 
